@@ -169,3 +169,5 @@ class Game:
         self.right_score = 0
         self.left_hits = 0
         self.right_hits = 0
+
+
